@@ -20,6 +20,13 @@
       "phonenumber": "7600726380",
       "role": "manager",
       "id": 3
+    },
+    {
+      "name": "test",
+      "email": "bekis86879@bankrau.com",
+      "phonenumber": "7600726380",
+      "role": "admin",
+      "id": 4
     }
   ]
 }

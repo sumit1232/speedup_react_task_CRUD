@@ -4,11 +4,13 @@ import Home from './Components/Home';
 import Userdata from './Components/Userdata';
 import Pagenotfound from './Components/Pagenotfound';
 import Editdata from './Components/Editdata';
+import Navbar from './Components/Navbar';
 
 const App = () => {
   return (
   <>
   <Router>
+    <Navbar />
     <Routes>
       <Route path='/' element={<Home />}/>
       <Route path='/userdata' element={<Userdata />}/>
