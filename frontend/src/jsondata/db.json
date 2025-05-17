@@ -1,0 +1,25 @@
+{
+  "users_speedup": [
+    {
+      "name": "Sumit Jadhav",
+      "email": "sumitjadav2525@gmail.com",
+      "phonenumber": "9081109040",
+      "role": "developer",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "phonenumber": "734897987",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "name": "Sumit Jadav",
+      "email": "sumitjadav2525@gmail.com",
+      "phonenumber": "7600726380",
+      "role": "manager",
+      "id": 3
+    }
+  ]
+}
