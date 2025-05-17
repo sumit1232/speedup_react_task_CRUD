@@ -8,25 +8,46 @@
       "id": 1
     },
     {
-      "name": "test",
-      "email": "test@gmail.com",
-      "phonenumber": "734897987",
-      "role": "admin",
+      "name": "vikas",
+      "email": "vikas22@gmail.com",
+      "phonenumber": "8745593348",
+      "role": "manager",
       "id": 2
     },
     {
-      "name": "Sumit Jadav",
-      "email": "sumitjadav2525@gmail.com",
-      "phonenumber": "7600726380",
-      "role": "manager",
+      "name": "pratik",
+      "email": "pratik28@gmail.com",
+      "phonenumber": "6845769822",
+      "role": "admin",
       "id": 3
     },
     {
-      "name": "test",
-      "email": "bekis86879@bankrau.com",
-      "phonenumber": "7600726380",
-      "role": "admin",
+      "name": "prashant",
+      "email": "prashant40@gmail.com",
+      "phonenumber": "445867494",
+      "role": "developer",
       "id": 4
+    },
+    {
+      "name": "Nilay",
+      "email": "nilay49@gmail.com",
+      "phonenumber": "9081109040",
+      "role": "manager",
+      "id": 5
+    },
+    {
+      "name": "Meet",
+      "email": "meet49@gmail.com",
+      "phonenumber": "5947694833",
+      "role": "admin",
+      "id": 6
+    },
+    {
+      "name": "Om Shinde",
+      "email": "om34@gmail.com",
+      "phonenumber": "969847698",
+      "role": "developer",
+      "id": 7
     }
   ]
 }
